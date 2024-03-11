@@ -10,7 +10,7 @@ Developed using JavaScript with NodeJS and Express JS, it leverages MongoDB for 
 ## Access the API
 + Fork and clone the repository
 ```md
-https://github.com/<github_username>/jobs-api
+https://github.com/<github_username>/jobs_API
 ```
 + Add a `.env` file in the root directory with following credentials mentioned.
 ```js
